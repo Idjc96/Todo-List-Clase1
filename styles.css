@@ -13,7 +13,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, var(--green), var(--blue-light));
+    background: linear-gradient(to bottom, var(--white), var(--blue-light));
     height: 100vh;
     font-family: 'Poppins', sans-serif;
 }
